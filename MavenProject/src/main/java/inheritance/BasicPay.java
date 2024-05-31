@@ -6,5 +6,6 @@ public class BasicPay
 	public void basic()
 	{
 		System.out.println("Basic Pay = "+basic+"\n Deduction = "+dedu+"\n Bonus = "+bon);
+		System.out.println("Basic Pay = "+basic+"\n Deduction = "+dedu+"\n Bonus = "+bon);
 	}
 }
