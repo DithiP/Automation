@@ -11,8 +11,8 @@ public class StudentAddress
 	}
 	public void display()
 	{
-		System.out.println(add);
 		System.out.println(reference.name+"   "+reference.id);
+		System.out.println(add);
 	}
 
 	public static void main(String[] args) 
